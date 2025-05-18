@@ -22,12 +22,26 @@ O programa simula a criação de uma conta bancária no terminal. Ele solicita a
 
 Após o preenchimento, uma mensagem de confirmação personalizada é exibida com os dados fornecidos.
 
-### Exemplo de execução:
+## 📁 Estrutura do Projeto
+
+```
+ContaTerminal/
+└── ContaTerminal.java
+```
+
+## ▶️ Exemplo de Execução
 
 ```bash
 Numero: 123
 Agencia: 1234-X
 Nome: João da Silva
 Saldo: 1000.50
+```
 
-Saída: Olá Ana Souza, obrigado por criar uma conta em nosso banco, sua agência 4567-8, conta 123 e seu saldo 2500.75 já está disponível para saque
+**Saída:**
+
+```
+Olá Ana Souza, obrigado por criar uma conta em nosso banco, sua agência 4567-8, conta 123 e seu saldo 2500.75 já está disponível para saque
+```
+
+---
